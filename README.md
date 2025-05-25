@@ -42,5 +42,6 @@
 
 ### 📩 Reach me at:
 📧 [mariamhegazy550@gmail.com](mariamhegazy550@gmail.com) 
-📱 +20 109 8521 377 
+📱 +20 109 8521 377
+    +20 155 5543 534
 🌍 Based in Giza, Egypt
