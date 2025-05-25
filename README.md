@@ -13,7 +13,8 @@
 
 ### Connect with me:
 
-![LinkedIn]([www.linkedin.com/in/mariam-mohamed-hegazy](https://www.linkedin.com/in/mariam-mohamed-hegazy/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariam-mohamed-hegazy/)  
 
 ---
 
