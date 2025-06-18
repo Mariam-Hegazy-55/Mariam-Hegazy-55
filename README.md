@@ -35,7 +35,6 @@
 
 - 🟣 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6d1dae28-8583-44e9-8f92-559ce1673603/public_url)
 - 🔴 [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/7d0cddad-3727-4c0a-b701-2b69b4aeb156/public_url)
-- ☁ HUAWEI Cloud Certified Developer Associate (HCCDA)
 
 ---
 
